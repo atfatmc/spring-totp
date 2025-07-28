@@ -1,1 +1,1 @@
-spring-totp
+# Generate TOTP Codes with Spring Boot and Google Authenticator
